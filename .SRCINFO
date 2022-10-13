@@ -1,0 +1,13 @@
+pkgbase = qt5
+	pkgver = v5.15.6
+	pkgrel = 0
+	arch = x86_64
+	makedepends = git
+	depends = libxcb
+	depends = xcb-proto
+	depends = xcb-util
+	depends = xcb-util-image
+	depends = xcb-util-wm
+	depends = libxi
+
+pkgname = qt5
